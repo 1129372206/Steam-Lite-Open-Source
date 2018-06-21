@@ -7,6 +7,8 @@
  2.虽遵守WTFPL许可协议，但仍希望使用者能从道德上尊重开发者的劳动成果。
 
  3.本工程基于Fusion APP制作。
+ 
+ 4.在上述条件下你他妈的想干嘛就干嘛。
 
  WTFPL（Do What The Fuck You Want To Public License）许可协议：
 
